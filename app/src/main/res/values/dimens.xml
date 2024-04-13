@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    //Tasks
+    <dimen name="Tasks_marginStart">16dp</dimen>
+    <dimen name="Tasks_marginBottom">16dp</dimen>
+    <dimen name="Tasks_marginTop">16dp</dimen>
+    <dimen name="Tasks_textSize">32sp</dimen>
+    <dimen name="FloatingActionButton_layout_margin">32dp</dimen>
+
+    //splash
+    <dimen name="splash_ImageView_layout_width">200dp</dimen>
+    <dimen name="splash_ImageView_layout_height">200dp</dimen>
+
+    //task
+    <dimen name="task_button_textSize">16sp</dimen>
+
+    //task_layout
+    <dimen name="task_layout_cardElevation">4dp</dimen>
+    <dimen name="task_layout_cardCornerRadius">8dp</dimen>
+    <dimen name="task_layout_layout_marginHorizontal">16dp</dimen>
+    <dimen name="task_layout_layout_marginVertical">8dp</dimen>
+    <dimen name="task_layout_Relative_layout_padding">8dp</dimen>
+    <dimen name="task_layout_CheckBox_padding_start">8dp</dimen>
+
+
+
+
+</resources>
